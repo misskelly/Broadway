@@ -19,6 +19,7 @@ header {
 a {
   color: white;
   font-size: 18px;
+  font-weight: normal;
 }
 
 
@@ -31,6 +32,7 @@ h2 {
 p {
   font-size: 14px;
 }
+
 
 h4 {
   color: White;
@@ -51,4 +53,9 @@ h5 {
   background-color: dimgray;
   text-align: left;
   font-size: 11px
+}
+
+
+h5 a {
+  font-size: 11px;
 }
