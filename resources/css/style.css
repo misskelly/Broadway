@@ -1,4 +1,4 @@
-* {
+body {
   text-align: center;
   font-family: Helvetica;
 
@@ -10,12 +10,12 @@ h1 {
 
 }
 header {
-  color: White;
+  color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 
 }
 .menu {
-  color: White !important;
+  color: white;
   font-size: 18px
 }
 
@@ -36,4 +36,11 @@ h4 {
 h3 {
   font-size: 23px;
   font-weight: bold;
+}
+
+h5 {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px
 }
